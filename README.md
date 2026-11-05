@@ -1,9 +1,6 @@
-# BFAR XI - EPAS (App Release Hub)
+# BFAR XI - EPAS
 ### Event Planner & Attendance System — Official Releases
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-release-repo/main/assets/images/bfar.png" alt="BFAR XI Logo" width="150" />
-</p>
 
 <p align="center">
   <strong>Official Mobile Application Distribution Portal</strong><br />
