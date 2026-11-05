@@ -1,76 +1,45 @@
-# BFAR XI - EPAS
+<div align="center">
 
+  <img src="https://github.com/user-attachments/assets/d10c901f-1f3c-480c-9977-645224269a58" width="128" height="128" alt="EPAS Logo" />
 
-<p align="center">
-  <strong>Official Mobile Application Distribution Portal</strong><br />
-  Bureau of Fisheries and Aquatic Resources — Regional Office No. XI (BFAR XI)<br />
-  <em>Regional Fisheries Information Management Unit (RFIMU)</em>
-</p>
+  # BFAR XI — Event Planner & Attendance System (EPAS)
+  
+  **Official Production Release for Bureau of Fisheries and Aquatic Resources — Region XI**
 
----
+  ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Version](https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge)
+  ![Status](https://img.shields.io/badge/Deployment-Production-success?style=for-the-badge)
 
-## 📥 Download & Latest Release
-
-| Specification | Details |
-| :--- | :--- |
-| **Current Version** | **v1.0.0 (Production)** |
-| **Target OS** | Android 8.0 (API level 26) or higher |
-| **Package Format** | Standalone Android Package (`.apk`) |
-| **Download Link** | [**👉 Download Latest APK (v1.0.0)**](../../releases/latest) |
-
-> *Note: For official use by authorized BFAR XI employees, event administrators, and registered participants only.*
+</div>
 
 ---
 
-## 📲 Installation Guide (Android)
+## 📌 Overview
 
-Follow these steps to install the application directly onto your device:
-
-1. **Download the APK:** Tap the download link above directly from your mobile browser.
-2. **Allow Installation from Unknown Sources:**
-   - If prompted by Android with *"File might be harmful"* or *"Install unknown apps"*, tap **Settings**.
-   - Enable **Allow from this source** for your browser.
-3. **Install the Package:**
-   - Open your browser's **Downloads** folder and select `BFAR-EPAS.apk`.
-   - Tap **Install** and wait for the process to complete.
-4. **Grant Permissions:**
-   - On the first launch, grant **Camera Permission** when requested. This is mandatory for scanning participant ID barcodes.
+**EPAS v1.0.0** is the standalone Android production deployment designed for **BFAR Region XI**. The application streamlines event logging, personnel attendance verification, and on-site tracking through real-time scanner integration and secure profile management.
 
 ---
 
-## 🔄 Automatic Over-The-Air (OTA) Updates
+## ✨ Key Features
 
-This application is equipped with an integrated over-the-air update mechanism. 
-
-- **No manual reinstallation required:** Bug fixes, performance optimizations, and interface adjustments will automatically download in the background when the application connects to the internet.
-- **When a full reinstall is required:** Full APK downloads from this repository are only required when major system-level or native permission changes occur.
-
----
-
-## 📋 Release History & Changelog
-
-### Version 1.0.0 (Initial Production Release) — *October 2026*
-- **Barcode & QR Scanner:** Automated scanning supporting Code128, Code39, EAN13, and QR formats.
-- **Dual Portal Access:** Distinct operational flows for Event Administrators and General Personnel.
-- **Profile Management:** In-app registration and credential updates.
-- **Offline Reliability:** Local caching for stable use in venues with low connectivity.
+- 📇 **High-Speed Barcode Scanning:** Automated 1D linear barcode scanning for rapid personnel check-ins during events and conferences.
+- 👥 **Dual Portal Architecture:** Dedicated workflows and dashboard access tailored for both **Administrators** and **Personnel**.
+- 🔐 **Profile & Selfie Verification:** Seamless identity verification, profile management, and secure token-based authentication.
+- 📜 **Certificate Generation:** Automated background tracking for verified attendance and Certificate of Appearance output.
 
 ---
 
-## 🔒 Security & Privacy Notice
+## 📦 Download & Installation
 
-This software is developed in strict adherence to the **Data Privacy Act of 2012 (Republic Act No. 10173)**. 
-- Barcode data and personnel records are used strictly for institutional event tracking and attendance audit trails.
-- Camera access is utilized exclusively for reading barcode identifiers. No unauthorized image captures or biometric data are retained.
+1. Navigate to the **[Releases](../../releases)** section of this repository.
+2. Download the latest `EPAS-v1.0.0.apk` asset.
+3. Open the file on your target Android device and grant permission to install from unknown sources if prompted.
 
 ---
 
-## 🏛️ Agency Contact & Support
+<div align="center">
 
-For technical support, access credential issues, or bug reports, please contact:
+*Internal Software Asset — Regional Fisheries Information Management Unit (RFIMU)*  
+**BFAR Region XI — Davao City, Philippines**
 
-**Regional Fisheries Information Management Unit (RFIMU)**  
-Bureau of Fisheries and Aquatic Resources — Regional Office No. XI  
-Department of Agriculture  
-
-*Copyright © 2026 BFAR XI. All rights reserved. For official agency use only.*
+</div>
