@@ -1,5 +1,4 @@
 # BFAR XI - EPAS
-### Event Planner & Attendance System — Official Releases
 
 
 <p align="center">
